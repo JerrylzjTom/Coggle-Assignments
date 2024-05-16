@@ -1,1 +1,1 @@
-This repository is aim to record my assignments and code in Coggle learning.
+This repository aims to record my assignments and code in Coggle learning.
